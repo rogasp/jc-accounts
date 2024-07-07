@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace WCompetition\JcAccounts\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class JcAccountsCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'jc-accounts';
 
     public $description = 'My command';
 
